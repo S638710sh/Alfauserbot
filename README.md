@@ -33,7 +33,7 @@
 ## Deploy 🚀
 - [![Deploy](https://telegra.ph/file/70eed53fc29c596977fbd.jpg)](#Deploy-To-Heroku)
 
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
+
 
 ------
 
@@ -90,7 +90,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- [![Replit](https://telegra.ph/file/3350951a56d29ff7acd5c.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 ### Terminal
 - Open the terminal.
